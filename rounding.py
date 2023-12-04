@@ -22,10 +22,6 @@ def round_decimal(decimal_number, num_decimal_places):
 
 
 def main():
-    """
-    Main function to handle user input and output for the Rounding Program.
-    """
-
     try:
         # Getting user input for the decimal number
         decimal_number = float(input("Enter a decimal number: "))
